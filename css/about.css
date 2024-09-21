@@ -1,0 +1,55 @@
+body {
+  background-image: url(../images/websitehorrorpicedit1.png);
+     background-repeat: repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: rgb(255, 255, 255);
+  text-align: left;
+  padding: 14px 40px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #6f3e18;
+  transform: scale(1.2);
+  text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 10px #7e2400, 0 0 10px #e62a00, 0 0 15px #e63600, 0 0 20px #e60000;;
+
+}
+
+
+h1 {
+  text-align: center;
+    font-size:100px;
+    color: white;
+    text-shadow: 0 0 10px #847474, 0 0 20px #fff, 0 0 30px #e64100, 0 0 40px #e62a00, 0 0 50px #e63600, 0 0 70px #e60000;;
+
+    font-family: Monaco;
+}
+
+h2 {
+  text-align: left;
+    font-size:20px;
+    color: white;
+    line-height: 1.1;
+    font-family: Monaco;
+
+}
+
+body {
+  background-color: beige;
+}
